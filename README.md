@@ -1,2 +1,2 @@
 # hello-world
-First ever repo for learning GitHub!
+I like performing statistical analysis with R.
